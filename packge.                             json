@@ -1,0 +1,17 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "keywords": [],
+  "author": "{{author}}",
+  "license": "ISC",
+  "bin": {
+    "itcast": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.0.3"
+  }
+}
